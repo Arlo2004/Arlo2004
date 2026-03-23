@@ -1,16 +1,42 @@
-## Hi there 👋
+<p align="center">
+  <img src="./FONDOgithub.png" width="100%" alt="Juan's Banner">
+</p>
 
-<!--
-**Arlo2004/Arlo2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Juan! 👋
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/TU_USUARIO_AQUÍ">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  • 🎓 I'm an <b>R&T International student</b> from Argentina, currently studying at the <b>IUT de Béziers</b>, France. <br>
+  • 💻 <b>Techstack:</b> .js, .http, .css, .py, .linux <br>
+  • 🇦🇷 🇫🇷 Living the international experience.
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=dark&hide_border=true" alt="Juan's GitHub Stats" />
+</p>
+
+## 🚀 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=dark&hide_border=true" alt="Juan's Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-blueviolet?style=flat-square" alt="Footer">
+</p>
+
+
+
+
