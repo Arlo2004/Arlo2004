@@ -14,20 +14,20 @@
 </p>
 
 <p align="left">
-  • I'm an <b>R&T International student</b> from Argentina 🇦🇷 , currently studying at the <b>IUT de Béziers</b>, France. <br>
+  • I'm an <b>R&T International student</b> from Argentina, currently studying at the <b>IUT de Béziers</b>, France. <br>
   • <b>Techstack:</b> .js, .http, .css, .py, .linux <br>
-  • 🇦🇷 🇫🇷 Living the international experience.
+  • Living the international experience between <b>Argentina, Italy, and France</b>.
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=dark&hide_border=true" alt="Juan's GitHub Stats" />
 </p>
 
-## 🚀 Most Used Languages
+## Most Used Languages 🐧
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=dark&hide_border=true" alt="Juan's Top Languages" />
