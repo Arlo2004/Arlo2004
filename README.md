@@ -2,7 +2,7 @@
   <img src="./FONDOgithub.png" width="100%" alt="Juan's Banner">
 </p>
 
-# Hey, I'm Juan! 👋
+# Hey, I'm Juan! 
 
 <p align="left">
   <a href="mailto:tu-correo@ejemplo.com">
@@ -14,8 +14,8 @@
 </p>
 
 <p align="left">
-  • 🎓 I'm an <b>R&T International student</b> from Argentina, currently studying at the <b>IUT de Béziers</b>, France. <br>
-  • 💻 <b>Techstack:</b> .js, .http, .css, .py, .linux <br>
+  • I'm an <b>R&T International student</b> from Argentina 🇦🇷 , currently studying at the <b>IUT de Béziers</b>, France. <br>
+  • <b>Techstack:</b> .js, .http, .css, .py, .linux <br>
   • 🇦🇷 🇫🇷 Living the international experience.
 </p>
 
