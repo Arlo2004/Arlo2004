@@ -15,7 +15,12 @@
 
 <p align="left">
   • I'm an <b>R&T International student</b> from Argentina, currently studying at the <b>IUT de Béziers</b>, France. <br>
-  • <b>Techstack:</b> .js, .http, .css, .py, .linux <br>
+  • <div align="left">
+  <h3>Mi Tech Stack:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,css,py,linux,bash" alt="Arlo2004 Tech Stack" />
+  </a>
+</div>
   • Living the international experience between <b>Argentina, Italy, and France</b>.
 </p>
 
