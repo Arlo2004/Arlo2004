@@ -29,13 +29,13 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arlo2004&show_icons=true&theme=teal&hide_border=true&count_private=true" width="85%" alt="Estadísticas de Arlo2004" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arlo2004&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Arlo2004" />
 </p>
 
 ## Most Used Languages 🐧
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=dark&hide_border=true" alt="Juan's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arlo2004&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
