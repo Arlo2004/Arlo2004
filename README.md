@@ -33,6 +33,9 @@
 </p>
 
 ## Most Used Languages 🐧
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arlo2004&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Arlo2004" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=dark&hide_border=true" alt="Juan's Top Languages" />
