@@ -15,10 +15,10 @@
 
 <p align="left">
   • I'm an <b>R&T International student</b> from Argentina, currently studying at the <b>IUT de Béziers</b>, France. <br>
-  • <div align="left">
+  <div align="left">
   <h3>Mi Tech Stack:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,css,py,linux,bash" alt="Arlo2004 Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=vscode,py,discord,gcp,ubuntu,linux,mysql" alt="Juan Tech Stack" />
   </a>
 </div>
   • Living the international experience between <b>Argentina, Italy, and France</b>.
@@ -41,7 +41,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-blueviolet?style=flat-square" alt="Footer">
 </p>
-
 
 
 
