@@ -14,7 +14,7 @@
 </p>
 
 * I'm an **R&T International student** from Argentina, currently studying at the **IUT de Béziers**, France.
-* Living the international experience between **Argentina, Italy, and France**.
+  * Living the international experience between **Argentina, Italy, and France**.
 
 ### Mi Tech Stack:
 <p align="left">
@@ -28,13 +28,13 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Arlo2004&show_icons=true&theme=dark&hide_border=true" alt="Estadísticas de Arlo2004" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arlo2004&theme=dark&hide_border=true" alt="Estadísticas de Arlo2004" />
 </p>
 
 ## Most Used Languages 🐧
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Arlo2004&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-advanced-template.vercel.app/api/top-langs/?username=Arlo2004&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
