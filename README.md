@@ -34,7 +34,7 @@
 ## Most Used Languages 🐧
 
 <p align="center">
-  <img src="https://github-advanced-template.vercel.app/api/top-langs/?username=Arlo2004&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Arlo2004&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
